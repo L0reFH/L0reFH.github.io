@@ -103,11 +103,12 @@
 		<p>
 			For more of my research, see my <a href="example.com">exotic dance research page.</a><br>
 			
-			Yours sincerely,<br>
+			Yours sincerely,<br><br>
 			
 			Dr Eleanor Gaye<br>
 		</p>
 		
-		<p>University of Awesome motto: "Be awesome to each other." -- </p><address>The memoirs of Bill S Preston, Esq</address>
+		<p>University of Awesome motto: "Be awesome to each other." -- </p>
+		<address>The memoirs of Bill S Preston, Esq</address>
 	</body>
 </html>
